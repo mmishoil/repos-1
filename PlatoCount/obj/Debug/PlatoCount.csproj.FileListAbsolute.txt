@@ -1,0 +1,8 @@
+C:\Users\misha\source\repos\DataStructures\PlatoCount\bin\Debug\PlatoCount.exe.config
+C:\Users\misha\source\repos\DataStructures\PlatoCount\bin\Debug\PlatoCount.exe
+C:\Users\misha\source\repos\DataStructures\PlatoCount\bin\Debug\PlatoCount.pdb
+C:\Users\misha\source\repos\DataStructures\PlatoCount\obj\Debug\PlatoCount.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\DataStructures\PlatoCount\obj\Debug\PlatoCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\source\repos\DataStructures\PlatoCount\obj\Debug\PlatoCount.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DataStructures\PlatoCount\obj\Debug\PlatoCount.exe
+C:\Users\misha\source\repos\DataStructures\PlatoCount\obj\Debug\PlatoCount.pdb

@@ -1,0 +1,8 @@
+C:\Users\misha\source\repos\DataStructures\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\misha\source\repos\DataStructures\WordCount\bin\Debug\WordCount.exe
+C:\Users\misha\source\repos\DataStructures\WordCount\bin\Debug\WordCount.pdb
+C:\Users\misha\source\repos\DataStructures\WordCount\obj\Debug\WordCount.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\DataStructures\WordCount\obj\Debug\WordCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\source\repos\DataStructures\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DataStructures\WordCount\obj\Debug\WordCount.exe
+C:\Users\misha\source\repos\DataStructures\WordCount\obj\Debug\WordCount.pdb

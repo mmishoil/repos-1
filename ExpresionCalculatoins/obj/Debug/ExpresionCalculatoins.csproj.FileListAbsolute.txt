@@ -1,0 +1,11 @@
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\bin\Debug\ExpresionCalculatoins.exe.config
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\bin\Debug\ExpresionCalculatoins.exe
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\bin\Debug\ExpresionCalculatoins.pdb
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\bin\Debug\DataStructuresLibrary.dll
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\bin\Debug\DataStructuresLibrary.pdb
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.csproj.CopyComplete
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.exe
+C:\Users\misha\source\repos\DataStructures\ExpresionCalculatoins\obj\Debug\ExpresionCalculatoins.pdb

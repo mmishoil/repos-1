@@ -1,0 +1,8 @@
+C:\Users\misha\source\repos\DataStructures\Stack1\bin\Debug\Stack1.exe.config
+C:\Users\misha\source\repos\DataStructures\Stack1\bin\Debug\Stack1.exe
+C:\Users\misha\source\repos\DataStructures\Stack1\bin\Debug\Stack1.pdb
+C:\Users\misha\source\repos\DataStructures\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\DataStructures\Stack1\obj\Debug\Stack1.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\source\repos\DataStructures\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DataStructures\Stack1\obj\Debug\Stack1.exe
+C:\Users\misha\source\repos\DataStructures\Stack1\obj\Debug\Stack1.pdb

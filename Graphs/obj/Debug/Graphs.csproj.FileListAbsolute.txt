@@ -1,0 +1,8 @@
+C:\Users\misha\source\repos\DataStructures\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\misha\source\repos\DataStructures\Graphs\bin\Debug\Graphs.exe
+C:\Users\misha\source\repos\DataStructures\Graphs\bin\Debug\Graphs.pdb
+C:\Users\misha\source\repos\DataStructures\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\DataStructures\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\source\repos\DataStructures\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DataStructures\Graphs\obj\Debug\Graphs.exe
+C:\Users\misha\source\repos\DataStructures\Graphs\obj\Debug\Graphs.pdb
